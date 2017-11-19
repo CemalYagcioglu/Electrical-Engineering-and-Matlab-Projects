@@ -1,0 +1,34 @@
+%[ABCsolver.m]
+%[Cemal Yagcioglu]
+%[October 30,2016]
+% I have adhered to all the tenets of the 
+% Duke Community Standard in creating this code.
+% Signed: [cy111]
+clear
+Coeff = [1,1,1;16,4,1;25,5,1]
+Output = [4;73;120]
+unknowns = inv(Coeff)*Output
+
+function [a , b , c] = findquad (x, y , flag )
+if nargin<2
+    error('Not enough input arguments!')
+elseif nargin==2
+    flag=0
+end
+for i=1:3
+CoeffMat(i,:) = [x(i).^2,x(i),1]
+
+if cond(CoeffMat)>10^5
+    error('Matrix is ill conditioned!')
+else
+    abc=inv(CoeffMat)*y
+    a=abc(1)
+    b=abc(2)
+    c=abc(3)
+    if flag==1
+         
+         plot(x,y)
+         axis[
+        
+    
+    

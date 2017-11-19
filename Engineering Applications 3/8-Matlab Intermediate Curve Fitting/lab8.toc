@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Palm 6.10}{3}
+\contentsline {section}{\numberline {2}Palm 6.16}{3}
+\contentsline {section}{\numberline {3}Chapra 15.12}{3}
+\contentsline {section}{\numberline {4}Chapra 14.12}{3}
+\contentsline {section}{\numberline {5}Chapra 14.14}{3}
+\contentsline {section}{\numberline {6}Chapra 15.7}{4}
+\contentsline {section}{\numberline {7}Chapra 15.10}{4}
+\contentsline {section}{\numberline {8}Chapra 15.10 Alternate}{4}
+\contentsline {section}{\numberline {9}Chapra 14.11 (Linearized)}{4}
+\contentsline {section}{\numberline {10}Chapra 14.11 (Nonlinear Regression)}{4}
+\contentsline {section}{\numberline {A}Codes and Output}{5}
+\contentsline {subsection}{\numberline {A.1}ONE.m}{5}
+\contentsline {subsection}{\numberline {A.2}TWO.m}{6}
+\contentsline {subsection}{\numberline {A.3}THREE.m}{7}
+\contentsline {subsection}{\numberline {A.4}FOUR.m}{8}
+\contentsline {subsection}{\numberline {A.5}FIVE.m}{9}
+\contentsline {subsection}{\numberline {A.6}SIX.m}{11}
+\contentsline {subsection}{\numberline {A.7}SEVEN.m}{13}
+\contentsline {subsection}{\numberline {A.8}EIGHT.m}{15}
+\contentsline {subsection}{\numberline {A.9}NINE.m}{17}
+\contentsline {subsection}{\numberline {A.10}TEN.m}{20}
+\contentsline {section}{\numberline {B}Figures}{23}

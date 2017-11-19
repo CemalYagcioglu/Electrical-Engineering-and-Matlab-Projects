@@ -1,0 +1,125 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Note put your own file names in the appendix
+%% Copy the relevant code as many times as needed for all files
+
+%% Note that the \epsfig command is currently commented out
+
+\documentclass{article}
+\usepackage{amsmath}    % load AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage{vmargin}    % allows better margins
+\setpapersize{USletter} % sets the paper size
+\setmarginsrb{1in}{0.5in}{1in}{0.2in}{12pt}{11mm}{0pt}{11mm} %sets margins 
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+{\bf \large EGR 103L - Fall 2016}\\~\\
+{\huge \bf Laboratory 7 - Linear Algebra}\\~\\
+CEMAL YAGCIOGLU (cy111)\\
+Lab Section 5D, Wednesday 11.45AM - 2.35PM\\
+30 OCTOBER, 2016\\~\\
+{\small  I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+\section{Palm Problem 8.1}
+\renewcommand{\arraystretch}{1.5}
+\begin{center}
+\begin{tabular}{|c||c|c|c|}\hline
+Part & x & y & z \\ \hline \hline
+$a$ &  &  & N/A\\ \hline
+$b$ &  &  & N/A \\ \hline
+$c$ &  &  & \\ \hline
+$d$ &  &  & \\ \hline
+\end{tabular}
+\end{center}
+
+\section{Based on Chapra Problem 8.3}
+% Equations in matrix form
+% Solutions for this system (x = vector)
+% Transpose and inverse
+% Condition numbers
+% Meaning of condition numbers
+
+\section{Based on Chapra Problem 8.10}
+% Equations in matrix form
+% Sentence introducing the following results: 
+\listinginput[1]{1}{TrussData.txt}
+
+\section{Palm 8.5(b)}
+% Discussion of whether there is a c value with easily predicted solutions
+% Discussion of why there are 201 points
+
+\section{Based on Palm 8.9}
+% Equations in matrix form
+
+\begin{bmatrix}
+3 & -1 & -1 & 0 \\
+-1 & 2 & 0 & -1 \\
+-1 & 0 & 2 & -1 \\
+0 & -1 & -1 & 3 \\
+\end{bmatrix}
+\begin{Bmatrix}
+$T_1$ \\ $T_2$ \\ $T_3$ \\ $T_4$
+\end{Bmatrix}&=
+\begin{Bmatrix} 
+$T_a$ \\ 0 \\ 0 \\ $T_b$
+\end{Bmatrix}
+% Sentence introducing the following results:
+\\
+Temperature data for $T_a$=120 degree Celcius and $T_b$=20 degree Celcius:
+\listinginput[1]{1}{TempData.txt}
+
+\section{Based on Palm 8.16(a)}
+% Sentence introducing the table of results
+Calculated coefficients of for the set of points are in the table below.
+
+% Table of results.
+\begin{tabular}{|c|c|c|c|}
+\hline
+Points & a & b & c\\\hline
+(1,4), (4, 73), (5, 120) & 6.00e+00 & -7.00e+00 & 5.00e+00\\
+(1,4), (4, -73), (5, 120) & 5.47e+01 & -2.99e+02 & 2.48e+02\\
+(1,4), (4, 73), (4, 120) & \bf{N/A} & \bf{N/A} & \bf{N/A}\\
+(1,4), (4, 73), (5, -120) & -5.40e+01 & 2.93e+02 & -2.35e+02\\\hline
+\end{tabular}
+\end{center}
+
+\pagebreak
+\appendix
+\section{Codes and Output}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \pagebreaks if they make sense
+% Make as many copies as you need
+
+\subsection{PROBLEM}
+\listinginput[1]{1}{File.m}
+
+\pagebreak
+\section{Figures}
+
+\begin{figure}[htb!]
+\begin{center}
+%\epsfig{file=FIGURE.eps, width=3.in}
+\caption{CAPTION}
+\end{center}
+\end{figure}
+
+\end{document}
+
+

@@ -1,0 +1,7 @@
+
+\begin{tabular}{|c c|}\hline 
+T1:  1.067e+02 C
+T2:  8.500e+01 C
+T3:  8.500e+01 C
+T4:  6.333e+01 C
+\end{tabular}
