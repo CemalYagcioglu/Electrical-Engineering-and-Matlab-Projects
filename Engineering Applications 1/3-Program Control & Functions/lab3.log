@@ -1,0 +1,286 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2015.10.24)  25 SEP 2016 20:54
+entering extended mode
+ %&-line parsing enabled.
+**lab3.tex
+(./lab3.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+\epsfxsize=\dimen116
+\epsfysize=\dimen117
+)
+(/usr/share/texmf/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks21
+\lst@length=\count100
+\lst@currlwidth=\dimen118
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count103
+\lst@lineno=\count104
+\c@lstlisting=\count105
+\lst@maxwidth=\dimen121
+
+(/usr/share/texmf/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
+)
+(/usr/share/texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
+\lst@framebox=\box29
+)
+(/usr/share/texmf/tex/latex/listings/listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/10/17 1.3b (Carsten Heinz)
+
+(/usr/share/texmf/tex/latex/moreverb/moreverb.sty
+Package: moreverb 1997/12/07 v2.2d.2 `more' verbatim facilities
+
+(/usr/share/texmf/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+\verbatim@out=\write3
+\tab@position=\count108
+\tab@size=\count109
+\listing@line=\count110
+)
+(/usr/share/texmf/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen122
+\PaperHeight=\dimen123
+) (./lab3.aux)
+\openout1 = `lab3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (./lab3.toc)
+\tf@toc=\write4
+\openout4 = `lab3.toc'.
+
+ (./lab3.lof)
+\tf@lof=\write5
+\openout5 = `lab3.lof'.
+
+ [1
+
+] [2] [3] [4]
+Overfull \hbox (107.73991pt too wide) in paragraph at lines 116--116
+[][] \OT1/cmtt/m/n/10 %Singularity = @(x, a, n) (-5/6).*(((x-0).^4)-((x-5).^4))
++15/6.*(x-8).^3+75.*(x-7).^2+57/6.*x.^3-238.25.*x;[] 
+ []
+
+
+Overfull \hbox (186.48923pt too wide) in paragraph at lines 116--116
+[][] \OT1/cmtt/m/n/10 %Singularity = @(x, a, n) ((x-a).^n).*((x>=-1 & a==-1 & n
+==0)|(x>0 & a==0 & n==1)|(x>1 & a==1 & n==1)|(x>3 & a==3 & n==2))[] 
+ []
+
+
+Overfull \hbox (170.73936pt too wide) in paragraph at lines 116--116
+[][] \OT1/cmtt/m/n/10 legend('<x+1>^0', '<x>^1', '<x-1>^1', '<x-3>^2', 'Locatio
+n','Northwest') % I have the newer version, thats why I needed[] 
+ []
+
+
+Overfull \hbox (97.24pt too wide) in paragraph at lines 116--116
+[][]                                                                          \
+OT1/cmtt/m/n/10 % to change the given structure.[] 
+ []
+
+[5]
+Overfull \hbox (18.49069pt too wide) in paragraph at lines 119--119
+[][] \OT1/cmtt/m/n/10 Deflection = ((-5/6).*(S(x,0,4)-S(x,5,4))+(5/2).*(S(x,8,3
+))+(325/2).*(S(x,7,2))+(79/12)...[] 
+ []
+
+
+Overfull \hbox (18.49069pt too wide) in paragraph at lines 119--119
+[][] \OT1/cmtt/m/n/10 Deflection = ((-5/6).*(S(x,0,4)-S(x,5,4))+(5/2).*(S(x,8,3
+))+(325/2).*(S(x,7,2))+(79/12)...[] 
+ []
+
+[6]
+Overfull \hbox (13.24074pt too wide) in paragraph at lines 122--122
+[][] \OT1/cmtt/m/n/10 plot(Vol,MyP1,'k-',Vol,MyP2,'k-',Vol,MyP3,'k-',Vol,MyP4,'
+k-',Vol,MyP5,'k-',Vol,MyP6,'k-')[] 
+ []
+
+
+Overfull \hbox (154.9895pt too wide) in paragraph at lines 122--122
+[][] \OT1/cmtt/m/n/10 legend(PointPlot, 'Helium', 'Hydrogen', 'Oxygen' , 'Chlor
+ine' , 'Carbon dioxide', 'Ammonia','Location','Northeast');[] 
+ []
+
+[7] [8]
+Overfull \hbox (34.24055pt too wide) in paragraph at lines 128--128
+[][]         \OT1/cmtt/m/n/10 if(length(Year2)~=1 || length(Year1)~=1 ||floor(Y
+ear2)~=Year2 || floor(Year1)~=Year1)[] 
+ []
+
+[9] [10
+
+]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+[11]
+File: ChargePlot.eps Graphic file (type eps)
+ <ChargePlot.eps>
+File: ButterflyPlot.eps Graphic file (type eps)
+ <ButterflyPlot.eps>
+File: PressuresPlot.eps Graphic file (type eps)
+ <PressuresPlot.eps>
+File: SingPlots.eps Graphic file (type eps)
+ <SingPlots.eps>
+File: DisplacementPlot.eps Graphic file (type eps)
+
+<DisplacementPlot.eps> [12
+
+] [13] [14] [15
+
+] (./lab3.aux) ) 
+Here is how much of TeX's memory you used:
+ 2566 strings out of 256215
+ 33236 string characters out of 1917022
+ 92343 words of memory out of 1500000
+ 5838 multiletter control sequences out of 10000+200000
+ 7198 words of font info for 27 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 32i,13n,32p,427b,286s stack positions out of 5000i,500n,6000p,200000b,15000s
+
+Output written on lab3.dvi (15 pages, 30772 bytes).

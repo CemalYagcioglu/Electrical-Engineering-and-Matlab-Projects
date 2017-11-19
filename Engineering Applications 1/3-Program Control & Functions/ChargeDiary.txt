@@ -1,0 +1,6 @@
+Case 1 error: Not enough inputs!
+Case 2 error: Not enough inputs!
+Case 3 error: Non-scalar constants!
+Case 4 error: Non-scalar constants!
+Case 5 error: Non-scalar constants!
+Case 6 error: Non-scalar constants!

@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Chapra Problem 2.6}{2}
+\contentsline {section}{\numberline {2}Based on Chapra Problem 2.22}{2}
+\contentsline {section}{\numberline {3}Chapra Problem 3.10}{2}
+\contentsline {section}{\numberline {4}Palm Problem 4.44}{2}
+\contentsline {section}{\numberline {5}Palm Problem 4.19}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}PlotCharge.m}{3}
+\contentsline {subsection}{\numberline {A.2}Charge.m}{3}
+\contentsline {subsection}{\numberline {A.3}RunButterfly.m}{4}
+\contentsline {subsection}{\numberline {A.4}Butterfly.m}{4}
+\contentsline {subsection}{\numberline {A.5}TestSingularity.m}{4}
+\contentsline {subsection}{\numberline {A.6}BeamDisplacement.m}{5}
+\contentsline {subsection}{\numberline {A.7}GraphPressures.m}{6}
+\contentsline {subsection}{\numberline {A.8}VanDerWaals.m}{7}
+\contentsline {subsection}{\numberline {A.9}LeapYears.m}{8}
+\contentsline {section}{\numberline {B}Diary}{10}
+\contentsline {section}{\numberline {C}Figures}{12}

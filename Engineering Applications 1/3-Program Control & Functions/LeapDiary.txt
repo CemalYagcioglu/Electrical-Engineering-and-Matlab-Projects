@@ -1,0 +1,49 @@
+Trial 1:
+ERROR: At least one input is required.
+
+Trial 2:
+ERROR: Single integer values only.
+
+Trial 3:
+ERROR: Single integer values only.
+
+Trial 4:
+ERROR: Single integer values only.
+
+Trial 5:
+ExtDay: 0 
+Years: 1800 
+
+Trial 6:
+ExtDay: 1 
+Years: 2000 
+
+Trial 7:
+ERROR: Single integer values only.
+
+Trial 8:
+ERROR: Single integer values only.
+
+Trial 9:
+ERROR: Single integer values only.
+
+Trial 10:
+ERROR: Single integer values only.
+
+Trial 11:
+ERROR: Single integer values only.
+
+Trial 12:
+ERROR: Single integer values only.
+
+Trial 13:
+ERROR: Invalid range
+
+Trial 14:
+ExtDay: 0 0 1 0 0 0 0 0 0 
+Years: 1894 1895 1896 1897 1898 1899 1900 1901 1902 
+
+Trial 15:
+ExtDay: 0 0 1 0 0 0 1 0 0 
+Years: 1994 1995 1996 1997 1998 1999 2000 2001 2002 
+

@@ -1,0 +1,160 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Copy the lstlisting and figure code as many times as you need
+%% Be sure to put in your own file names if appropriate
+
+%% Note that the \epsfig commands are currently commented out - until the
+%%%% files exist, processing this code without them will result in an error
+%%%% so leave the comments until you have created the graphics files!
+
+\documentclass{article}
+\usepackage{amsmath}    % load AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage{vmargin}    % allows better margins
+\setpapersize{USletter} % sets the paper size
+\setmarginsrb{1in}{0.5in}{1in}{0.2in}{12pt}{11mm}{0pt}{11mm} %sets margins 
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+{\bf \large EGR 103L -- Fall 2016}\\~\\
+{\huge \bf Laboratory 4 - Loops and Plots}\\~\\
+CEMAL YAGCIOGLU (cy111)\\
+Lab Section EGR 103L9-05, WEDNESDAY 11.45 PM - 2.35 AM\\
+2 OCTOBER, 2016\\~\\
+{\small I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+
+
+%%
+\section{Palm Figure 6.1-2}
+% Use the code \cite[p.~265]{Palm} somewhere in a line or two about
+% how you made the figure
+I gave x equally spaced values between 0 and 4 by using linspace code. Then I graphed \cite[p.~265]{Palm}; \begin{align} y=x^m \end{align} for different values of m(-0.5,0,0.5,1,2). I labeled each curve for different values of m with the m value, and gave title to the plot.
+
+
+\section{Chapra Problem 3.5}
+% Compare and contrast the different ways this program worked with angles.
+For the Chapra Problem 3.5, my program worked with different values of angle. With increasing number of N(number of steps used in Taylor Series), the accuracy for the given angle increased. On the other hand, with increasing angles, the accuracy of approximations decreased meaning the error increased. Even if the angles are actually are same, meaning two pi subtracted from the angle is same, bigger corresponding angle gave a higher error.
+\section{Chapra Problem 4.1}
+% Introduction to the table, including a citation, here,
+Table of Maclaurin series \cite[p.~120]{Chapra} is; 
+% followed by
+\begin{center}
+{\tt
+\input{DivAvgTable.tex}
+}
+\end{center}
+% Followed by commentary here about the relative quality of the approximations
+The quality of approximations increases as the iteration number increase. For the given iteration number, smaller values of \textit{a} have higher quality of approximations. This can also be observed from increasing number of iterations as \textit{a} increases. While for small values of \textit{a} expected accuracy can be reached before iterations have reached to their maximum value, for higher values of \textit{a} iterations reaches the maxvalue before they can reach to expected accuracy.
+
+\section{3D Projections}
+% I figured this one would leave you speechless! Nothing else to say...
+The figure and codes are in the appropriate appendices.
+
+\section{Data Logger}
+% Still speechless!
+The diary, data file, and code are in the appropriate appendices.
+\pagebreak
+
+\appendix
+\section{Codes}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \pagebreaks if they make sense
+
+% Put the files in the same order as the problems; generally, 
+% scripts will come first followed by any functions called
+% by those scripts.
+
+% Put a \pagebreak after all the scripts/functions
+\subsection{ExponentialsGraph.m}
+\listinginput[1]{1}{ExponentialsGraph.m}
+\subsection{CosSeries.m}
+\listinginput[1]{1}{CosSeries.m}
+\subsection{DivAvg.m}
+\listinginput[1]{1}{DivAvg.m}
+\subsection{ThreeDProjections.m}
+\listinginput[1]{1}{ThreeDProjections.m}
+\subsection{DataLogger.m}
+\listinginput[1]{1}{DataLogger.m}
+\pagebreak
+
+\section{Diary and Data Sets}
+% This part is already done for you
+\subsection{MyTemps.txt}
+\listinginput[1]{1}{MyTemps.txt}
+
+\subsection{TempDiary.txt}
+\listinginput[1]{1}{TempDiary.txt}
+\clearpage
+
+\section{Figures}
+% Use [htb!] for plots that show up on first and last page of plots
+% Use [htb!p] for plots on the second to penultimate page of plots
+
+% Put a \clearpage after all the plots
+
+\begin{figure}[htb!p]
+\begin{center}
+\epsfig{file=ThePowerFunctionPlot.eps, height=3.5in}
+%\caption{\tt Palm 6.1-2 Plot \label{ThePowerFunctionPlot}}
+\end{center}
+\end{figure}
+
+%% This one should be a little bigger...
+\begin{figure}[htb!p]
+\begin{center}
+\epsfig{file=CosSeriesCheckerPlot.eps, width=6in}
+\caption{Output of {\tt CosSeriesChecker.m} for Chapra 3.5}
+\end{center}
+\end{figure}
+\clearpage
+
+\begin{figure}[htb!]
+\begin{center}
+\epsfig{file=ParametricPlots.eps, width=5in}
+\caption{Output of {\tt ParametricPlots.m} for Palm 5.15}
+\end{center}
+\end{figure}
+\clearpage
+
+
+% Other plots...
+
+\clearpage
+
+\begin{thebibliography}{9}
+% You're welcome
+\bibitem{Chapra}
+  Chapra, Steven C.,
+  {\it Applied Numerical Methods with MATLAB for Engineering and Scientists}.
+  McGraw-Hill, New York,
+  3rd Edition,
+  2012.
+\bibitem{Palm}
+  Palm, William J.,
+  {\it Introduction to MATLAB for Engineers}.
+  McGraw-Hill, New York,
+  3rd Edition,
+  2011.
+\end{thebibliography}
+
+\end{document}
+
+
+

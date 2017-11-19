@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Data Obtained}{2}
+\contentsline {section}{\numberline {3}Calculation Results}{2}
+\contentsline {section}{\numberline {4}Conclusions}{3}
+\contentsline {section}{\numberline {A}Codes}{4}
+\contentsline {subsection}{\numberline {A.1}DoneBeam1.m}{4}
+\contentsline {subsection}{\numberline {A.2}DoneBeam2.m}{5}
+\contentsline {subsection}{\numberline {A.3}DoneBeam3.m}{6}
+\contentsline {section}{\numberline {B}Figures}{7}

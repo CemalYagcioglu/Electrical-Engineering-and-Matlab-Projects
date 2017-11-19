@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Palm Figure 6.1-2}{2}
+\contentsline {section}{\numberline {2}Chapra Problem 3.5}{2}
+\contentsline {section}{\numberline {3}Chapra Problem 4.1}{2}
+\contentsline {section}{\numberline {4}3D Projections}{2}
+\contentsline {section}{\numberline {5}Data Logger}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}ExponentialsGraph.m}{3}
+\contentsline {subsection}{\numberline {A.2}CosSeries.m}{3}
+\contentsline {subsection}{\numberline {A.3}DivAvg.m}{3}
+\contentsline {subsection}{\numberline {A.4}ThreeDProjections.m}{4}
+\contentsline {subsection}{\numberline {A.5}DataLogger.m}{5}
+\contentsline {section}{\numberline {B}Diary and Data Sets}{7}
+\contentsline {subsection}{\numberline {B.1}MyTemps.txt}{7}
+\contentsline {subsection}{\numberline {B.2}TempDiary.txt}{7}
+\contentsline {section}{\numberline {C}Figures}{8}

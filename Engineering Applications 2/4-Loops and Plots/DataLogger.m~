@@ -1,0 +1,40 @@
+
+  %delete('MyTemps.tex')
+Temp = [];
+i=1;
+Max=0;
+Min=999999;
+AvTemp=0;
+while i<99999999
+    FID = fopen('MyTemps.txt', 'w');
+    TempInput2 ='%4.2f';
+    fprintf(FID,TempInput2,Temp);
+     Temp(i) = input('Enter a Temperature: ');
+     b
+    if (Temp(i) >= 0)
+    OldTemp = Temp;
+    AvTemp = ((AvTemp*(i-1))+Temp(i))/(i);
+    if Temp(i) > Max
+        Max = Temp(i);
+    end
+    if Temp(i) < Min
+        Min = Temp(i);
+    end
+TempInput ='Enter a Temperature:  %4.2f\n';
+fprintf(TempInput,Temp(i));
+fprintf('Readings Minimum Average Maximum\n');
+formatSpec = '       %0.0f  %4.2f  %4.2f  %4.2f\n';
+fprintf(formatSpec,i,Min,AvTemp,Max);
+    else
+%TempInput ='Enter a Temperature:  %4.2f\n';
+%fprintf(TempInput,Temp);
+        i=i+1000000000;
+    end
+    i=i+1;
+    fprintf(FID, '\n');
+    
+    
+
+    
+end
+save MyTemps.txt Temp -ascii  

@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Equations}{2}
+\contentsline {section}{\numberline {2}Tables using {\tt tabular} and {\tt array}}{2}
+\contentsline {subsection}{\numberline {2.1}Using {\tt tabular}}{2}
+\contentsline {subsection}{\numberline {2.2}Using {\tt array}}{2}
+\contentsline {section}{\numberline {3}Comments}{3}
+\contentsline {section}{\numberline {A}Codes}{4}
+\contentsline {subsection}{\numberline {A.1}Listing of full sample header for original code}{4}
+\contentsline {subsection}{\numberline {A.2}Listing of short sample header for original code}{4}
+\contentsline {subsection}{\numberline {A.3}Listing of full sample header for modified code}{4}
+\contentsline {subsection}{\numberline {A.4}Listing of short sample header for modified code}{4}
+\contentsline {section}{\numberline {B}Figures }{5}
+\contentsline {section}{References}{6}
