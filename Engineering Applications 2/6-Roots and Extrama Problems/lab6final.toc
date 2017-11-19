@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Basic Root-Finding Problems}{2}
+\contentsline {section}{\numberline {2}Basic Min/Max-Finding Problems}{2}
+\contentsline {section}{\numberline {3}Chapra 6.16}{2}
+\contentsline {section}{\numberline {4}Chapra 6.21}{2}
+\contentsline {section}{\numberline {5}Chapra 7.23, 7.24, and 7.25(b/c)}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}Roots.m}{3}
+\contentsline {subsection}{\numberline {A.2}HeightCylinder.m}{5}
+\contentsline {subsection}{\numberline {A.3}Projectile.m}{6}
+\contentsline {subsection}{\numberline {A.4}ExtremeValue.m}{6}
+\contentsline {section}{\numberline {B}Figures}{8}

@@ -1,0 +1,68 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Note put your own file names in the appendix
+%% Copy the relevant code as many times as needed for all files
+
+%% Note that the \epsfig command is currently commented out
+
+\documentclass{article}
+\usepackage{amsmath}    % load AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage{vmargin}    % allows better margins
+\setpapersize{USletter} % sets the paper size
+\usepackage[table]{xcolor}
+\setmarginsrb{1in}{0.5in}{1in}{0.2in}{12pt}{11mm}{0pt}{11mm} %sets margins 
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+{\bf \large EGR 103L - Fall 2016}\\~\\
+{\huge \bf Laboratory 5 - Graphical Methods}\\~\\
+**NAME (NET ID)**\\
+Lab Section **NUMBER AND LETTER**, **DAY AND TIMES**\\
+**DATEDUE**, **YEAR**\\~\\
+{\small I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+
+\section{Name Of Problem}
+
+\pagebreak
+\appendix
+\section{Codes and Output}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \pagebreaks if they make sense
+% Make as many copies as you need
+
+\subsection{FILE.m}
+\listinginput[1]{1}{FILE.m}
+\pagebreak
+
+
+\section{Figures}
+% Make changes as needed and uncomment when ready
+% Use pagebreaks if they make sense.
+
+\begin{figure}[htb!]
+\begin{center}
+%\epsfig{file=FILE.eps, width=3.5in} 
+\caption{CAPTION}
+\end{center}
+\end{figure}
+
+\end{document}
+
